@@ -15,8 +15,6 @@ Wind Direction and Velocity (Can go above the normal generation limit of ~22MPH)
 
 Weather (Can select between Rain or Clear Skies)
 
-All For each hole
-
 
 Documentation to help with the code can be found here:
 https://docs.google.com/document/d/1hRrG-JqQ8ATIPvJjFlhJCGBUoIKJIr0QYro-_wc-9IE/edit?tab=t.0
